@@ -1,0 +1,12 @@
+C:\Users\rytho\source\repos\ENCRYPT TEST\ENCRYPT TEST\bin\Debug\ENCRYPT TEST.exe.config
+C:\Users\rytho\source\repos\ENCRYPT TEST\ENCRYPT TEST\bin\Debug\ENCRYPT TEST.exe
+C:\Users\rytho\source\repos\ENCRYPT TEST\ENCRYPT TEST\bin\Debug\ENCRYPT TEST.pdb
+C:\Users\rytho\source\repos\ENCRYPT TEST\ENCRYPT TEST\bin\Debug\ENCRYPT TEST.xml
+C:\Users\rytho\source\repos\ENCRYPT TEST\ENCRYPT TEST\obj\Debug\ENCRYPT TEST.vbproj.AssemblyReference.cache
+C:\Users\rytho\source\repos\ENCRYPT TEST\ENCRYPT TEST\obj\Debug\ENCRYPT_TEST.Form1.resources
+C:\Users\rytho\source\repos\ENCRYPT TEST\ENCRYPT TEST\obj\Debug\ENCRYPT_TEST.Resources.resources
+C:\Users\rytho\source\repos\ENCRYPT TEST\ENCRYPT TEST\obj\Debug\ENCRYPT TEST.vbproj.GenerateResource.cache
+C:\Users\rytho\source\repos\ENCRYPT TEST\ENCRYPT TEST\obj\Debug\ENCRYPT TEST.vbproj.CoreCompileInputs.cache
+C:\Users\rytho\source\repos\ENCRYPT TEST\ENCRYPT TEST\obj\Debug\ENCRYPT TEST.exe
+C:\Users\rytho\source\repos\ENCRYPT TEST\ENCRYPT TEST\obj\Debug\ENCRYPT TEST.xml
+C:\Users\rytho\source\repos\ENCRYPT TEST\ENCRYPT TEST\obj\Debug\ENCRYPT TEST.pdb
